@@ -29,6 +29,8 @@ This repository documents the step-by-step process to install and run **Jenkins*
 ```bash
 ssh -i <key-file>.pem ubuntu@<public-ipsudo apt update
 
+---
+
 2️⃣ Install Java (Required for Jenkins)
 sudo apt install openjdk-17-jdk -y
 Verify Java:
